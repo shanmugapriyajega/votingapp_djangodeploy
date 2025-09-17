@@ -1,0 +1,1 @@
+gunicorn voting_app.wsgi:application
